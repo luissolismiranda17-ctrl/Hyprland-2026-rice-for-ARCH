@@ -3,7 +3,6 @@
     "logo": {
         "type": "auto",
         "source": "/home/miso/.config/fastfetch/pro1.png",
-        "color": {"1":"cyan"},
         "height": 13,
         "width": 22,
         "padding": {
